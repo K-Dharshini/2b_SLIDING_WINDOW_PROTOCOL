@@ -56,5 +56,5 @@ while True:
 # Server
 ![image](https://github.com/NaliniG007/2b_SLIDING_WINDOW_PROTOCOL/assets/139334830/6155a5c1-1e64-4494-90a9-4e6ffd6e539e)
 
-## RESULT
+## RESULT:
 Thus, python program to perform sliding window protocol was successfully executed.
