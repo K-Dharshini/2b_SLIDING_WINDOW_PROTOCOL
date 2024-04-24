@@ -1,4 +1,4 @@
-## EXP1b. SLIDING WINDOW PROTOCOL
+## Ex.No:2b Sliding window protocol
 
 ## AIM:
 To write a python program to perform sliding window protocol.
