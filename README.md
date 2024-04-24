@@ -1,4 +1,4 @@
-## EXP1b. IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## EXP1b. SLIDING WINDOW PROTOCOL
 
 ## AIM:
 To write a python program to perform sliding window protocol.
